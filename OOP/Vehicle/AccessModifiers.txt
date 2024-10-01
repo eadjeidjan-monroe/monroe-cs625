@@ -1,0 +1,8 @@
+﻿private -- member accessible inside type / class only - default
+internal -- accessible inside the class/type and classes in same assembly/project
+protected -- accessible from the class and any class that inherits from the class
+public -- public is accessible everywhere
+internal protected -- combination of internal and protected
+						- accessible from inside the class and any class in the same project and any class that inherits form the same project
+private protected -- combination of private and protected
+					- accessible inside the class and any class that inherits from the class an is in the same project
