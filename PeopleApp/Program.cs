@@ -53,5 +53,27 @@ john.WriteChildrenToConsole();
 sarah.WriteChildrenToConsole();
 jane.WriteChildrenToConsole();
 
+string s1 = "Hello ";
+string s2 = "World";
+string s3 = s1 + s2;
+Console.WriteLine(s3);
+
+//Person.Marry(john, jane);
+
+if (john + sarah)
+{
+	Console.WriteLine($"{john.Name} and {sarah.Name} successfully got married.");
+}
+
+Person baby3 = john * sarah;
+
+baby3.Name = "John IV";
+
+Person baby4 = john * jane;
+baby4.Name = "John V";
+john.WriteChildrenToConsole();
+john.OutputSpouses();
+sarah.WriteChildrenToConsole();
+jane.WriteChildrenToConsole();
 Console.Read();
 

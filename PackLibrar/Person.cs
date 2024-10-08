@@ -114,6 +114,23 @@ namespace PackLibrary
 		//Show code output
 		#endregion
 
+		#region Operators
 
+		//Define the + operator to marry
+		public static bool operator +(Person a, Person b)
+		{
+			Marry(a, b);
+
+			return a.Married && b.Married;
+		}
+
+		//define the * operator to procreate (multiply)
+		public static Person operator *(Person a, Person b)
+		{
+			//return a ref to the baby that results from 'multiplying'
+			return Procreate(a, b);
+		}
+
+		#endregion
 	}
 }
