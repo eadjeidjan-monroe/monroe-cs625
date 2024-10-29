@@ -2,17 +2,35 @@
 
 using VehicleProduction;
 
-MercedesEClass myMercedes = new MercedesEClass();
- Console.WriteLine(
-	myMercedes.MoveForward()
-	 );
-myMercedes.LaneAssist();
+MercedesCClass myCClass = new MercedesCClass();
 
-myMercedes.CarLocation();
+myCClass.WarmSeats("very hot");
 
-Console.WriteLine("Lock Status:" +
-		myMercedes.RemoteLock(false)
-	);
+myCClass.MoveForward();
+
+Console.WriteLine(
+	myCClass.Fly()
+);
+
+//Vehicle myVehicle = new Vehicle(); //wrong
+
+
+
+
+//MercedesEClass myMercedes = new MercedesEClass();
+
+//myMercedes.Color = "Black";
+//myMercedes.Weight = 5000;
+// Console.WriteLine(
+//	myMercedes.MoveForward()
+//	 );
+//myMercedes.LaneAssist();
+
+//myMercedes.CarLocation();
+
+//Console.WriteLine("Lock Status:" +
+//		myMercedes.RemoteLock(false)
+//	);
 
 
 //Console.WriteLine("Implementation of Car");
