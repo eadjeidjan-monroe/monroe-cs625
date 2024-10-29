@@ -1,0 +1,15 @@
+C:\Users\eadje\source\repos\MonroeCollege\monroe-cs625\VehicleProduction\bin\Debug\net6.0\VehicleProduction.exe
+C:\Users\eadje\source\repos\MonroeCollege\monroe-cs625\VehicleProduction\bin\Debug\net6.0\VehicleProduction.deps.json
+C:\Users\eadje\source\repos\MonroeCollege\monroe-cs625\VehicleProduction\bin\Debug\net6.0\VehicleProduction.runtimeconfig.json
+C:\Users\eadje\source\repos\MonroeCollege\monroe-cs625\VehicleProduction\bin\Debug\net6.0\VehicleProduction.dll
+C:\Users\eadje\source\repos\MonroeCollege\monroe-cs625\VehicleProduction\bin\Debug\net6.0\VehicleProduction.pdb
+C:\Users\eadje\source\repos\MonroeCollege\monroe-cs625\VehicleProduction\obj\Debug\net6.0\VehicleProduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eadje\source\repos\MonroeCollege\monroe-cs625\VehicleProduction\obj\Debug\net6.0\VehicleProduction.AssemblyInfoInputs.cache
+C:\Users\eadje\source\repos\MonroeCollege\monroe-cs625\VehicleProduction\obj\Debug\net6.0\VehicleProduction.AssemblyInfo.cs
+C:\Users\eadje\source\repos\MonroeCollege\monroe-cs625\VehicleProduction\obj\Debug\net6.0\VehicleProduction.csproj.CoreCompileInputs.cache
+C:\Users\eadje\source\repos\MonroeCollege\monroe-cs625\VehicleProduction\obj\Debug\net6.0\VehicleProduction.sourcelink.json
+C:\Users\eadje\source\repos\MonroeCollege\monroe-cs625\VehicleProduction\obj\Debug\net6.0\VehicleProduction.dll
+C:\Users\eadje\source\repos\MonroeCollege\monroe-cs625\VehicleProduction\obj\Debug\net6.0\refint\VehicleProduction.dll
+C:\Users\eadje\source\repos\MonroeCollege\monroe-cs625\VehicleProduction\obj\Debug\net6.0\VehicleProduction.pdb
+C:\Users\eadje\source\repos\MonroeCollege\monroe-cs625\VehicleProduction\obj\Debug\net6.0\VehicleProduction.genruntimeconfig.cache
+C:\Users\eadje\source\repos\MonroeCollege\monroe-cs625\VehicleProduction\obj\Debug\net6.0\ref\VehicleProduction.dll
