@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PeopleApp", "..\PeopleApp\P
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VehicleProduction", "..\VehicleProduction\VehicleProduction.csproj", "{293C3C78-D309-4FEE-AF6E-A95D3ADD5849}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBRelatedClasses", "..\DBRelatedClasses\DBRelatedClasses.csproj", "{DDF54308-B38A-4CDE-B68F-7B8421C650E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DBRelatedClasses", "..\DBRelatedClasses\DBRelatedClasses.csproj", "{DDF54308-B38A-4CDE-B68F-7B8421C650E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityF", "..\EntityF\EntityF.csproj", "{62BEF0B8-D50E-4CB1-BF8E-3733199F402B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{DDF54308-B38A-4CDE-B68F-7B8421C650E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDF54308-B38A-4CDE-B68F-7B8421C650E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDF54308-B38A-4CDE-B68F-7B8421C650E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62BEF0B8-D50E-4CB1-BF8E-3733199F402B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62BEF0B8-D50E-4CB1-BF8E-3733199F402B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62BEF0B8-D50E-4CB1-BF8E-3733199F402B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62BEF0B8-D50E-4CB1-BF8E-3733199F402B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
