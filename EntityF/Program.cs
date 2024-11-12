@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using EntityF;
+using EntityF.Model;
+
+//AdoNetDemo adoNetDemo = new AdoNetDemo();
+//adoNetDemo.SelectProductsDataReader();
