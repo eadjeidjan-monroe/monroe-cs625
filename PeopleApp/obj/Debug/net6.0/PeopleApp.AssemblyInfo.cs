@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PeopleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f218c8fa28e40b47c18666ec500b80d58d5d88f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba519ff596dfcfff3fd0679084e5e06f6d06ae58")]
 [assembly: System.Reflection.AssemblyProductAttribute("PeopleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PeopleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

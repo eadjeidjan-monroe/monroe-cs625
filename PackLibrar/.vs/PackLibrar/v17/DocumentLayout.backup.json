@@ -3,6 +3,66 @@
   "WorkspaceRootPath": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\PackLibrar\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B9A774F2-6C08-46C7-85B8-F734785C11D3}|..\\DemoWindowsForms\\DemoWindowsForms.csproj|c:\\users\\eadje\\source\\repos\\monroecollege\\monroe-cs625\\demowindowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A774F2-6C08-46C7-85B8-F734785C11D3}|..\\DemoWindowsForms\\DemoWindowsForms.csproj|c:\\users\\eadje\\source\\repos\\monroecollege\\monroe-cs625\\demowindowsforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A774F2-6C08-46C7-85B8-F734785C11D3}|..\\DemoWindowsForms\\DemoWindowsForms.csproj|c:\\users\\eadje\\source\\repos\\monroecollege\\monroe-cs625\\demowindowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A774F2-6C08-46C7-85B8-F734785C11D3}|..\\DemoWindowsForms\\DemoWindowsForms.csproj|c:\\users\\eadje\\source\\repos\\monroecollege\\monroe-cs625\\demowindowsforms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3AC43F-2AB5-4482-B555-C35CDCC28C86}|..\\DemoAI\\DemoAI.csproj|c:\\users\\eadje\\source\\repos\\monroecollege\\monroe-cs625\\demoai\\services\\demoapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3AC43F-2AB5-4482-B555-C35CDCC28C86}|..\\DemoAI\\DemoAI.csproj|c:\\users\\eadje\\source\\repos\\monroecollege\\monroe-cs625\\demoai\\controllers\\displaytypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3AC43F-2AB5-4482-B555-C35CDCC28C86}|..\\DemoAI\\DemoAI.csproj|c:\\users\\eadje\\source\\repos\\monroecollege\\monroe-cs625\\demoai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3AC43F-2AB5-4482-B555-C35CDCC28C86}|..\\DemoAI\\DemoAI.csproj|c:\\users\\eadje\\source\\repos\\monroecollege\\monroe-cs625\\demoai\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3AC43F-2AB5-4482-B555-C35CDCC28C86}|..\\DemoAI\\DemoAI.csproj|c:\\users\\eadje\\source\\repos\\monroecollege\\monroe-cs625\\demoai\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62BEF0B8-D50E-4CB1-BF8E-3733199F402B}|..\\EntityF\\EntityF.csproj|c:\\users\\eadje\\source\\repos\\monroecollege\\monroe-cs625\\entityf\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293C3C78-D309-4FEE-AF6E-A95D3ADD5849}|..\\VehicleProduction\\VehicleProduction.csproj|c:\\users\\eadje\\source\\repos\\monroecollege\\monroe-cs625\\vehicleproduction\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293C3C78-D309-4FEE-AF6E-A95D3ADD5849}|..\\VehicleProduction\\VehicleProduction.csproj|c:\\users\\eadje\\source\\repos\\monroecollege\\monroe-cs625\\vehicleproduction\\mercedeseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293C3C78-D309-4FEE-AF6E-A95D3ADD5849}|..\\VehicleProduction\\VehicleProduction.csproj|c:\\users\\eadje\\source\\repos\\monroecollege\\monroe-cs625\\vehicleproduction\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293C3C78-D309-4FEE-AF6E-A95D3ADD5849}|..\\VehicleProduction\\VehicleProduction.csproj|c:\\users\\eadje\\source\\repos\\monroecollege\\monroe-cs625\\vehicleproduction\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293C3C78-D309-4FEE-AF6E-A95D3ADD5849}|..\\VehicleProduction\\VehicleProduction.csproj|c:\\users\\eadje\\source\\repos\\monroecollege\\monroe-cs625\\vehicleproduction\\train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9B0567-26D6-4D0B-97F9-8FB8D8F3A71E}|..\\GenericsDemo\\GenericsDemo.csproj|c:\\users\\eadje\\source\\repos\\monroecollege\\monroe-cs625\\genericsdemo\\genericlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9B0567-26D6-4D0B-97F9-8FB8D8F3A71E}|..\\GenericsDemo\\GenericsDemo.csproj|c:\\users\\eadje\\source\\repos\\monroecollege\\monroe-cs625\\genericsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293C3C78-D309-4FEE-AF6E-A95D3ADD5849}|..\\VehicleProduction\\VehicleProduction.csproj|c:\\users\\eadje\\source\\repos\\monroecollege\\monroe-cs625\\vehicleproduction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293C3C78-D309-4FEE-AF6E-A95D3ADD5849}|..\\VehicleProduction\\VehicleProduction.csproj|c:\\users\\eadje\\source\\repos\\monroecollege\\monroe-cs625\\vehicleproduction\\mercedescclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C40120-AA4D-4497-BB0D-85443C943A4A}|..\\PeopleApp\\PeopleApp.csproj|c:\\users\\eadje\\source\\repos\\monroecollege\\monroe-cs625\\peopleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{62BEF0B8-D50E-4CB1-BF8E-3733199F402B}|..\\EntityF\\EntityF.csproj|c:\\users\\eadje\\source\\repos\\monroecollege\\monroe-cs625\\entityf\\efdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -16,9 +76,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{62BEF0B8-D50E-4CB1-BF8E-3733199F402B}|..\\EntityF\\EntityF.csproj|c:\\users\\eadje\\source\\repos\\monroecollege\\monroe-cs625\\entityf\\northwinddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62BEF0B8-D50E-4CB1-BF8E-3733199F402B}|..\\EntityF\\EntityF.csproj|c:\\users\\eadje\\source\\repos\\monroecollege\\monroe-cs625\\entityf\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{62BEF0B8-D50E-4CB1-BF8E-3733199F402B}|..\\EntityF\\EntityF.csproj|c:\\users\\eadje\\source\\repos\\monroecollege\\monroe-cs625\\entityf\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -39,31 +96,10 @@
       "AbsoluteMoniker": "D:0:0:{62BEF0B8-D50E-4CB1-BF8E-3733199F402B}|..\\EntityF\\EntityF.csproj|c:\\users\\eadje\\source\\repos\\monroecollege\\monroe-cs625\\entityf\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{293C3C78-D309-4FEE-AF6E-A95D3ADD5849}|..\\VehicleProduction\\VehicleProduction.csproj|c:\\users\\eadje\\source\\repos\\monroecollege\\monroe-cs625\\vehicleproduction\\mercedescclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{293C3C78-D309-4FEE-AF6E-A95D3ADD5849}|..\\VehicleProduction\\VehicleProduction.csproj|c:\\users\\eadje\\source\\repos\\monroecollege\\monroe-cs625\\vehicleproduction\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{293C3C78-D309-4FEE-AF6E-A95D3ADD5849}|..\\VehicleProduction\\VehicleProduction.csproj|c:\\users\\eadje\\source\\repos\\monroecollege\\monroe-cs625\\vehicleproduction\\train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{293C3C78-D309-4FEE-AF6E-A95D3ADD5849}|..\\VehicleProduction\\VehicleProduction.csproj|c:\\users\\eadje\\source\\repos\\monroecollege\\monroe-cs625\\vehicleproduction\\iairplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{293C3C78-D309-4FEE-AF6E-A95D3ADD5849}|..\\VehicleProduction\\VehicleProduction.csproj|c:\\users\\eadje\\source\\repos\\monroecollege\\monroe-cs625\\vehicleproduction\\mercedeseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{293C3C78-D309-4FEE-AF6E-A95D3ADD5849}|..\\VehicleProduction\\VehicleProduction.csproj|c:\\users\\eadje\\source\\repos\\monroecollege\\monroe-cs625\\vehicleproduction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{293C3C78-D309-4FEE-AF6E-A95D3ADD5849}|..\\VehicleProduction\\VehicleProduction.csproj|c:\\users\\eadje\\source\\repos\\monroecollege\\monroe-cs625\\vehicleproduction\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DDF54308-B38A-4CDE-B68F-7B8421C650E9}|..\\DBRelatedClasses\\DBRelatedClasses.csproj|c:\\users\\eadje\\source\\repos\\monroecollege\\monroe-cs625\\dbrelatedclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{293C3C78-D309-4FEE-AF6E-A95D3ADD5849}|..\\VehicleProduction\\VehicleProduction.csproj|c:\\users\\eadje\\source\\repos\\monroecollege\\monroe-cs625\\vehicleproduction\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{293C3C78-D309-4FEE-AF6E-A95D3ADD5849}|..\\VehicleProduction\\VehicleProduction.csproj|c:\\users\\eadje\\source\\repos\\monroecollege\\monroe-cs625\\vehicleproduction\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -76,34 +112,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 352,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EFDemo.cs",
-              "DocumentMoniker": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\EntityF\\EFDemo.cs",
-              "RelativeDocumentMoniker": "..\\EntityF\\EFDemo.cs",
-              "ToolTip": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\EntityF\\EFDemo.cs",
-              "RelativeToolTip": "..\\EntityF\\EFDemo.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAcwCEAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T22:11:42.596Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\EntityF\\Program.cs",
-              "RelativeDocumentMoniker": "..\\EntityF\\Program.cs",
-              "ToolTip": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\EntityF\\Program.cs",
-              "RelativeToolTip": "..\\EntityF\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T21:51:48.468Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -115,19 +125,199 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\DemoWindowsForms\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "..\\DemoWindowsForms\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\DemoWindowsForms\\Form1.Designer.cs*",
+              "RelativeToolTip": "..\\DemoWindowsForms\\Form1.Designer.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T22:34:14.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\DemoWindowsForms\\Form2.cs",
+              "RelativeDocumentMoniker": "..\\DemoWindowsForms\\Form2.cs",
+              "ToolTip": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\DemoWindowsForms\\Form2.cs [Design]",
+              "RelativeToolTip": "..\\DemoWindowsForms\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T22:30:51.353Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\DemoWindowsForms\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\DemoWindowsForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\DemoWindowsForms\\Form1.cs*",
+              "RelativeToolTip": "..\\DemoWindowsForms\\Form1.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T22:15:43.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\DemoWindowsForms\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\DemoWindowsForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\DemoWindowsForms\\Form1.cs [Design]*",
+              "RelativeToolTip": "..\\DemoWindowsForms\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T22:08:53.442Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DisplayTypeController.cs",
+              "DocumentMoniker": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\DemoAI\\Controllers\\DisplayTypeController.cs",
+              "RelativeDocumentMoniker": "..\\DemoAI\\Controllers\\DisplayTypeController.cs",
+              "ToolTip": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\DemoAI\\Controllers\\DisplayTypeController.cs",
+              "RelativeToolTip": "..\\DemoAI\\Controllers\\DisplayTypeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T21:24:46.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DemoAPIService.cs",
+              "DocumentMoniker": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\DemoAI\\Services\\DemoAPIService.cs",
+              "RelativeDocumentMoniker": "..\\DemoAI\\Services\\DemoAPIService.cs",
+              "ToolTip": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\DemoAI\\Services\\DemoAPIService.cs",
+              "RelativeToolTip": "..\\DemoAI\\Services\\DemoAPIService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T21:20:29.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\DemoAI\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "..\\DemoAI\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\DemoAI\\Models\\Customer.cs",
+              "RelativeToolTip": "..\\DemoAI\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T21:20:07.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\DemoAI\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "..\\DemoAI\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\DemoAI\\Models\\Category.cs",
+              "RelativeToolTip": "..\\DemoAI\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T21:20:03.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\DemoAI\\Program.cs",
+              "RelativeDocumentMoniker": "..\\DemoAI\\Program.cs",
+              "ToolTip": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\DemoAI\\Program.cs",
+              "RelativeToolTip": "..\\DemoAI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T21:14:14.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GenericList.cs",
+              "DocumentMoniker": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\GenericsDemo\\GenericList.cs",
+              "RelativeDocumentMoniker": "..\\GenericsDemo\\GenericList.cs",
+              "ToolTip": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\GenericsDemo\\GenericList.cs",
+              "RelativeToolTip": "..\\GenericsDemo\\GenericList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T20:58:34.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\GenericsDemo\\Program.cs",
+              "RelativeDocumentMoniker": "..\\GenericsDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\GenericsDemo\\Program.cs",
+              "RelativeToolTip": "..\\GenericsDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T20:52:10.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\PeopleApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\PeopleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\PeopleApp\\Program.cs",
+              "RelativeToolTip": "..\\PeopleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T20:44:06.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EFDemo.cs",
+              "DocumentMoniker": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\EntityF\\EFDemo.cs",
+              "RelativeDocumentMoniker": "..\\EntityF\\EFDemo.cs",
+              "ToolTip": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\EntityF\\EFDemo.cs",
+              "RelativeToolTip": "..\\EntityF\\EFDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T22:11:42.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\EntityF\\Program.cs",
+              "RelativeDocumentMoniker": "..\\EntityF\\Program.cs",
+              "ToolTip": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\EntityF\\Program.cs",
+              "RelativeToolTip": "..\\EntityF\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T21:51:48.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "AdoNetDemo.cs",
               "DocumentMoniker": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\EntityF\\AdoNetDemo.cs",
               "RelativeDocumentMoniker": "..\\EntityF\\AdoNetDemo.cs",
               "ToolTip": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\EntityF\\AdoNetDemo.cs",
               "RelativeToolTip": "..\\EntityF\\AdoNetDemo.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBZwAwAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T20:32:53.151Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\EntityF\\Model\\Category.cs",
               "RelativeDocumentMoniker": "..\\EntityF\\Model\\Category.cs",
@@ -140,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 26,
               "Title": "OrderDetails.cs",
               "DocumentMoniker": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\EntityF\\Model\\OrderDetails.cs",
               "RelativeDocumentMoniker": "..\\EntityF\\Model\\OrderDetails.cs",
@@ -153,7 +343,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 27,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\EntityF\\Model\\Employee.cs",
               "RelativeDocumentMoniker": "..\\EntityF\\Model\\Employee.cs",
@@ -166,7 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 25,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\EntityF\\Model\\Order.cs",
               "RelativeDocumentMoniker": "..\\EntityF\\Model\\Order.cs",
@@ -179,7 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 29,
               "Title": "Shipper.cs",
               "DocumentMoniker": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\EntityF\\Model\\Shipper.cs",
               "RelativeDocumentMoniker": "..\\EntityF\\Model\\Shipper.cs",
@@ -187,11 +377,12 @@
               "RelativeToolTip": "..\\EntityF\\Model\\Shipper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T22:24:00.921Z"
+              "WhenOpened": "2024-11-05T22:24:00.921Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 28,
               "Title": "Supplier.cs",
               "DocumentMoniker": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\EntityF\\Model\\Supplier.cs",
               "RelativeDocumentMoniker": "..\\EntityF\\Model\\Supplier.cs",
@@ -199,11 +390,12 @@
               "RelativeToolTip": "..\\EntityF\\Model\\Supplier.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T22:14:58.604Z"
+              "WhenOpened": "2024-11-05T22:14:58.604Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 30,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\EntityF\\Model\\Product.cs",
               "RelativeDocumentMoniker": "..\\EntityF\\Model\\Product.cs",
@@ -211,11 +403,12 @@
               "RelativeToolTip": "..\\EntityF\\Model\\Product.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAMwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T22:12:18.405Z"
+              "WhenOpened": "2024-11-05T22:12:18.405Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 24,
               "Title": "NorthwindDB.cs",
               "DocumentMoniker": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\EntityF\\NorthwindDB.cs",
               "RelativeDocumentMoniker": "..\\EntityF\\NorthwindDB.cs",
@@ -228,7 +421,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 22,
               "Title": "EntityF.csproj",
               "DocumentMoniker": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\EntityF\\EntityF.csproj",
               "RelativeDocumentMoniker": "..\\EntityF\\EntityF.csproj",
@@ -249,11 +442,12 @@
               "RelativeToolTip": "..\\VehicleProduction\\Train.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T21:27:34.257Z"
+              "WhenOpened": "2024-10-29T21:27:34.257Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 31,
               "Title": "IAirPlane.cs",
               "DocumentMoniker": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\VehicleProduction\\IAirPlane.cs",
               "RelativeDocumentMoniker": "..\\VehicleProduction\\IAirPlane.cs",
@@ -261,35 +455,38 @@
               "RelativeToolTip": "..\\VehicleProduction\\IAirPlane.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T21:20:25.488Z"
+              "WhenOpened": "2024-10-29T21:20:25.488Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "MercedesCClass.cs",
               "DocumentMoniker": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\VehicleProduction\\MercedesCClass.cs",
               "RelativeDocumentMoniker": "..\\VehicleProduction\\MercedesCClass.cs",
               "ToolTip": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\VehicleProduction\\MercedesCClass.cs",
               "RelativeToolTip": "..\\VehicleProduction\\MercedesCClass.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAABYZmZmZqYwwB0AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T20:59:08.636Z"
+              "WhenOpened": "2024-10-29T20:59:08.636Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 10,
               "Title": "Vehicle.cs",
               "DocumentMoniker": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\VehicleProduction\\Vehicle.cs",
               "RelativeDocumentMoniker": "..\\VehicleProduction\\Vehicle.cs",
               "ToolTip": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\VehicleProduction\\Vehicle.cs",
               "RelativeToolTip": "..\\VehicleProduction\\Vehicle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAsAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T20:56:04.898Z"
+              "WhenOpened": "2024-10-29T20:56:04.898Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 32,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\DBRelatedClasses\\Program.cs",
               "RelativeDocumentMoniker": "..\\DBRelatedClasses\\Program.cs",
@@ -297,47 +494,51 @@
               "RelativeToolTip": "..\\DBRelatedClasses\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T20:48:22.193Z"
+              "WhenOpened": "2024-10-29T20:48:22.193Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 11,
               "Title": "MercedesEClass.cs",
               "DocumentMoniker": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\VehicleProduction\\MercedesEClass.cs",
               "RelativeDocumentMoniker": "..\\VehicleProduction\\MercedesEClass.cs",
               "ToolTip": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\VehicleProduction\\MercedesEClass.cs",
               "RelativeToolTip": "..\\VehicleProduction\\MercedesEClass.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAgAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T20:25:05.811Z"
+              "WhenOpened": "2024-10-29T20:25:05.811Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 13,
               "Title": "Bus.cs",
               "DocumentMoniker": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\VehicleProduction\\Bus.cs",
               "RelativeDocumentMoniker": "..\\VehicleProduction\\Bus.cs",
               "ToolTip": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\VehicleProduction\\Bus.cs",
               "RelativeToolTip": "..\\VehicleProduction\\Bus.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T20:00:34.597Z"
+              "WhenOpened": "2024-10-29T20:00:34.597Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 12,
               "Title": "Car.cs",
               "DocumentMoniker": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\VehicleProduction\\Car.cs",
               "RelativeDocumentMoniker": "..\\VehicleProduction\\Car.cs",
               "ToolTip": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\VehicleProduction\\Car.cs",
               "RelativeToolTip": "..\\VehicleProduction\\Car.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAA3wAkAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wAkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T19:57:22.503Z"
+              "WhenOpened": "2024-10-29T19:57:22.503Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 33,
               "Title": "IVehicle.cs",
               "DocumentMoniker": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\VehicleProduction\\IVehicle.cs",
               "RelativeDocumentMoniker": "..\\VehicleProduction\\IVehicle.cs",
@@ -345,7 +546,8 @@
               "RelativeToolTip": "..\\VehicleProduction\\IVehicle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T19:56:08.854Z"
+              "WhenOpened": "2024-10-29T19:56:08.854Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -355,9 +557,10 @@
               "RelativeDocumentMoniker": "..\\VehicleProduction\\Program.cs",
               "ToolTip": "C:\\Users\\eadje\\source\\repos\\MonroeCollege\\monroe-cs625\\VehicleProduction\\Program.cs",
               "RelativeToolTip": "..\\VehicleProduction\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T19:41:29.739Z"
+              "WhenOpened": "2024-10-29T19:41:29.739Z",
+              "EditorCaption": ""
             }
           ]
         }
